@@ -8,7 +8,7 @@ Startovní skript obsahuje GCODE pro očištění trysky před tiskem na levé s
 Koncový GCODE pak vypne větrák a nahřívání hotendu a podložky, zvedne Z osu o 30mm, přesune hotend do domovské pozice a následně vysune desku dopředu.
 
 ## Instalace
-Profil přidáte do sliceru přes položku v menu Soubor -> Importovat -> Importovat Konfiguraci.
+Profil přidáte do sliceru přes položku v menu `Soubor -> Importovat -> Importovat Konfiguraci`.
 
 ### Uložení profilů
-Pro trvalé uložení profilů je poteba na každé ze záložek kliknout na disketu vedle názvu profilu, a profil přejmenovat. Bez přejmenování se vám profily neuloží. Je potřeba toto udělat na všech záložkách, čili u 'Nastavení tisku', Nastavení filamentu a také u ` Nastavení tiskárny`
+Pro trvalé uložení profilů je poteba na každé ze záložek kliknout na disketu vedle názvu profilu, a profil přejmenovat. Bez přejmenování se vám profily neuloží. Je potřeba toto udělat na všech záložkách, čili u `Nastavení tisku`, `Nastavení filamentu` a také u `Nastavení tiskárny`
