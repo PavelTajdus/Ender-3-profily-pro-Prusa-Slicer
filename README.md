@@ -1,4 +1,6 @@
 # Ender-3 profily pro Prusa Slicer
+
+Průša Slicer stahujte zde: [https://github.com/prusa3d/PrusaSlicer/releases](https://github.com/prusa3d/PrusaSlicer/releases).
  
 Základní profil pro běžný tisk s PLA. Teploty jsou nastaveny univerzálně na 205/60. Tento profil je vhodný pro a optimalizovaný pro Ender-3 bez nějakých úprav. Pokud máte Ender-3 s nějakými úpravami, bude možná potřeba si pohrát s některými parametry tisku.
 
